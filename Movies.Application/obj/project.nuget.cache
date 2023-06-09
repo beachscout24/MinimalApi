@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+dDWhMGJfNIKqxmy+92y4pQ/slef+tspyTW7iycg8PEPLRyz6sBzs4WR9AT5ay4PA6RvyxoGylxueQBrR78Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ericw\\dev\\.net\\MinimalApi\\Movies.Application\\Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ericw\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\fluentvalidation\\11.5.0\\fluentvalidation.11.5.0.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.0\\fluentvalidation.dependencyinjectionextensions.11.5.0.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

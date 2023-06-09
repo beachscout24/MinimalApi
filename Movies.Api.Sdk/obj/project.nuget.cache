@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYTvS+Yw4RIyuZS+QyJcipyy6uT3biNQH0ELg8BXdogvcwYJvPj/gnxdvcf3XJUdLaIeIAHKcyDL/F31Kun13A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ericw\\dev\\.net\\MinimalApi\\Movies.Api.Sdk\\Movies.Api.Sdk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ericw\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\ericw\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
